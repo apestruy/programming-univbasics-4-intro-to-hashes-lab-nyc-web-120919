@@ -5,8 +5,7 @@ end
 def my_hash
   pets = {
     :cat => "Chloe",
-    :dog => "Scooby"
-  }
+    :dog => "Scooby" }
 end
 
 def pioneer
