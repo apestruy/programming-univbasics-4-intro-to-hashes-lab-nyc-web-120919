@@ -3,9 +3,9 @@ def new_hash
 end
 
 def my_hash
-  animals = {
-    "cat" => "Chloe"
-    "Dog" => "Scooby"
+  pets = {
+    :cat => "Chloe"
+    :dog => "Scooby"
   }
 end
 
